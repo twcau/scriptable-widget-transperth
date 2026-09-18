@@ -1,2 +1,5 @@
 .github\*
 scriptable-widget-transperth.code-workspace
+
+#Ignore vscode AI rules
+.github\instructions\codacy.instructions.md
